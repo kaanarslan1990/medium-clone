@@ -1,0 +1,33 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-blue {
+    background-color: #C4E2FF;
+    
+}
+
+.border-bottom-dark {
+    border-bottom:1px solid rgba(41,41,41, 1);
+}
+.border-bottom-light {
+    border-bottom:1px solid rgb(112, 104, 104, 0.4);
+}
+
+.aside-buttons >li {
+    margin-bottom: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+/* .bg-image {
+    background-image:url(https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png);
+} */
